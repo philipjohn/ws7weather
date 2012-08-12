@@ -85,7 +85,7 @@ class WS7_Weather_Widget extends WP_Widget {
 	 * @param array $instance Previously saved values from database.
 	 */
 	public function form( $instance ) {
-		$title = ($instance['title']) ? $instance['title'] : __( 'New title', 'text_domain' ); 
+		$title = ($instance['title']) ? $instance['title'] : __( 'Today\'s Forecast', 'text_domain' ); 
 		$size = ($instance['size']) ? $instance['size'] : 150; 
 		?>
 		<p>
