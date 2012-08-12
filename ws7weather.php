@@ -1,7 +1,7 @@
 <?php 
 /*
 Plugin Name: WS7 Weather Widget
-Plugin URI: http://kevinjones21.wordpress.com/
+Plugin URI: http://philipjohn.co.uki/category/plugins/ws7-weather
 Description: Provides a pretty widget for WordPress sites to display today's weather, as forecast by Kevin Jones' WS7 Weather
 Version: 0.1
 Author: Philip John
